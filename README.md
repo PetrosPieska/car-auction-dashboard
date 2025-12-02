@@ -1,5 +1,78 @@
-# Vue 3 + TypeScript + Vite
+***Car Auction Dashboard*****
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A modern, component-driven frontend demo built with Vue 3, TypeScript, and Tailwind CSS.
+The goal of this project is to demonstrate how I structure clean, reusable UI components and design intuitive interfaces for a car auction platform.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Live demo: https://petrospieska.github.io/car-auction-dashboard/
+
+
+****Overview****
+
+This demo shows a simple but modern auction dashboard with:
+
+A real-time client-side filtering system (by make and status)
+
+Clear visual states for auction items (Open, Ending Soon, Closed)
+
+Reusable UI components (filters, cards, badges, layout sections)
+
+A clean and responsive layout using Tailwind CSS
+
+Mock data only — the focus is on UI, structure, and UX, not backend logic
+
+The purpose is to highlight my ability to build visually polished, well-structured frontend applications.
+
+****Tech Stack****
+
+Vue 3 (Composition API)
+
+TypeScript
+
+Tailwind CSS
+
+Vite
+
+gh-pages for deployment
+
+**Features****
+ Component-driven structure
+
+Filters, list views, cards, and UI badges are all modular, reusable components.
+
+**Client-side filtering****
+
+Filters update the auction list instantly without page reloads.
+
+**Auction state badges****
+
+Visual indicators for each auction’s state:
+
+OPEN
+
+ENDING SOON
+
+CLOSED
+
+****Why I Built This****
+
+This project serves as a small, focused demonstration of my frontend skills:
+
+UI architecture
+
+Component design
+
+Tailwind layout and styling
+
+Visual clarity and UX thinking
+
+Modern Vue 3 + TypeScript workflow
+
+The scope is intentionally small so you can quickly scan the code and UI.
+
+Responsive design
+
+Works on desktop and mobile, thanks to Tailwind’s utility-first layout system.
+
+Clean visual hierarchy
+
+Focus on typography, spacing, and clarity to make auctions easy to scan.
