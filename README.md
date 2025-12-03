@@ -1,5 +1,8 @@
 ***Car Auction Dashboard*****
 
+<img width="1881" height="895" alt="carauctiondash" src="https://github.com/user-attachments/assets/fe5ba37a-26d9-4fdc-894c-b67ec857a3e5" />
+
+
 A modern, component-driven frontend demo built with Vue 3, TypeScript, and Tailwind CSS.
 The goal of this project is to demonstrate how I structure clean, reusable UI components and design intuitive interfaces for a car auction platform.
 
