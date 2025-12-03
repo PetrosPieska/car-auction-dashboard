@@ -1,4 +1,4 @@
-***Car Auction Dashboard*****
+**Car Auction Dashboard**
 
 <img width="1881" height="895" alt="carauctiondash" src="https://github.com/user-attachments/assets/fe5ba37a-26d9-4fdc-894c-b67ec857a3e5" />
 
