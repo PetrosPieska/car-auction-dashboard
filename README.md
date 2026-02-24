@@ -1,73 +1,55 @@
-**Car Auction Dashboard**
+
 
 <img width="1881" height="895" alt="carauctiondash" src="https://github.com/user-attachments/assets/fe5ba37a-26d9-4fdc-894c-b67ec857a3e5" />
 
+# 🚗 Car Auction Dashboard 2.0
 
+🌐 **Live Demo:**  
+👉 https://petrospieska.github.io/car-auction-dashboard/
 
-A modern, component-driven frontend demo built with Vue 3, TypeScript, and Tailwind CSS.
-The goal of this project is to demonstrate how I structure clean, reusable UI components and design intuitive interfaces for a car auction platform.
+---
 
+## 📌 Overview
 
-Live demo: https://petrospieska.github.io/car-auction-dashboard/
+Car Auction Dashboard is a modern, component-driven frontend application built with **Vue 3, TypeScript, Vite, and Tailwind CSS**.
 
+The application simulates a live dealer auction platform, focusing on clean UI structure, reusable components, dynamic filtering, and state-driven rendering.
 
+This project was built to demonstrate:
+- Strong component architecture
+- Type-safe frontend development
+- Clean and scalable UI design
+- Modern Vue 3 Composition API usage
 
-**Overview**
+---
 
-This demo shows a simple but modern auction dashboard with:
+## 🛠 Tech Stack
 
-A real-time client-side filtering system (by make and status)
+- 🟢 Vue 3 (Composition API)
+- 🟦 TypeScript
+- ⚡ Vite
+- 🎨 Tailwind CSS
 
-Clear visual states for auction items (Open, Ending Soon, Closed)
+---
 
-Reusable UI components (filters, cards, badges, layout sections)
+## ✨ Features
 
-A clean and responsive layout using Tailwind CSS
+- 🔍 Client-side filtering by make and status  
+- 🏷 Live auction status badges (Open / Ending Soon / Closed)  
+- 📦 Reusable card components  
+- ⚡ Instant UI updates without page reload  
+- 📱 Fully responsive layout  
+- 🎨 Clean dark-themed dashboard design  
 
-Mock data only — the focus is on UI, structure, and UX, not backend logic
+---
 
-The purpose is to highlight my ability to build visually polished, well-structured frontend applications.
+## 🧠 Technical Highlights
 
+- Component-based architecture with clear separation of concerns
+- Strong TypeScript interfaces for auction data models
+- Reactive state handling using Vue’s Composition API
+- Utility-first styling with Tailwind CSS
+- Clean UI hierarchy with structured layout and consistent spacing
 
-**Tech Stack**
+---
 
-Vue 3 (Composition API)
-TypeScript
-Tailwind CSS
-Vite
-gh-pages for deployment
-
-
-**Features**
-Component-driven structure
-Filters, list views, cards, and UI badges are all modular, reusable components.
-
-**Client-side filtering**
-
-Filters update the auction list instantly without page reloads.
-
-**Auction state badges**
-
-Visual indicators for each auction’s state:
-OPEN
-ENDING SOON
-CLOSED
-
-
-**Why I Built This**
-
-This project serves as a small, focused demonstration of my frontend skills:
-
-UI architecture
-Component design
-Tailwind layout and styling
-Visual clarity and UX thinking
-Modern Vue 3 + TypeScript workflow
-
-The scope is intentionally small so you can quickly scan the code and UI.
-
-Responsive design
-Works on desktop and mobile, thanks to Tailwind’s utility-first layout system.
-
-Clean visual hierarchy
-Focus on typography, spacing, and clarity to make auctions easy to scan.
